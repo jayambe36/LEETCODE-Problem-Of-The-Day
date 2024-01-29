@@ -1,24 +1,28 @@
-class MyQueue(object):
-
-    def __init__(self):
-        self.stack1 = []
-        self.stack2 = []
-
-    def push(self, x):
-        self.stack1.append(x)
-
-    def pop(self):
-        self.move_elements()
-        return self.stack2.pop()
-
-    def peek(self):
-        self.move_elements()
-        return self.stack2[-1]
-
-    def empty(self):
-        return not self.stack1 and not self.stack2
-
-    def move_elements(self):
-        if not self.stack2:
-            while self.stack1:
-                self.stack2.append(self.stack1.pop())
+class MyQueue {
+    stack<int> s1, s2;
+public:
+    MyQueue() {}
+    
+    void push(int x) {
+        s1.push(x);
+    }
+    
+    int pop() {
+        while(!s1.empty()) s2.push(s1.top()), s1.pop();
+        int ans = s2.top();
+        s2.pop();
+        while(!s2.empty()) s1.push(s2.top()), s2.pop();
+        return ans;
+    }   
+    
+    int peek() {
+        while(!s1.empty()) s2.push(s1.top()), s1.pop();
+        int ans = s2.top();
+        while(!s2.empty()) s1.push(s2.top()), s2.pop();
+        return ans;
+    }
+    
+    bool empty() {
+        return s1.empty();
+    }
+};
