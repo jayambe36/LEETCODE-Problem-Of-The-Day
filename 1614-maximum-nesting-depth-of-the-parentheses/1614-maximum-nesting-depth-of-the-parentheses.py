@@ -1,5 +1,5 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        return max(accumulate({'(':1,')':-1}.get(c,0) for c in s))
+        return max(accumulate((c=='(')-(c==')') for c in s))
 
 #time complexity : O(1)
