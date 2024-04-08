@@ -1,10 +1,13 @@
+from collections import deque
+
 class Solution:
     def __init__(self):
         self.m = 0
         self.n = 0
+        self.ans = []
         self.atlantic = []
         self.pacific = []
-        self.ans = []
+        self.q = deque()
 
     def pacificAtlantic(self, mat):
         if not mat:
@@ -15,29 +18,29 @@ class Solution:
         self.pacific = [[False] * self.n for _ in range(self.m)]
 
         for i in range(self.m):
-            self.dfs(mat, self.pacific, i, 0)
-            self.dfs(mat, self.atlantic, i, self.n - 1)
+            self.bfs(mat, self.pacific, i, 0)
+            self.bfs(mat, self.atlantic, i, self.n - 1)
 
         for i in range(self.n):
-            self.dfs(mat, self.pacific, 0, i)
-            self.dfs(mat, self.atlantic, self.m - 1, i)
+            self.bfs(mat, self.pacific, 0, i)
+            self.bfs(mat, self.atlantic, self.m - 1, i)
 
         return self.ans
 
-    def dfs(self, mat, visited, i, j):
-        if visited[i][j]:
-            return
-        visited[i][j] = True
-
-        if self.atlantic[i][j] and self.pacific[i][j]:
-            self.ans.append([i, j])
-
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-        for dx, dy in directions:
-            x, y = i + dx, j + dy
-            if 0 <= x < self.m and 0 <= y < self.n and mat[x][y] >= mat[i][j]:
-                self.dfs(mat, visited, x, y)
-
+    def bfs(self, mat, visited, i, j):
+        self.q.append((i, j))
+        while self.q:
+            i, j = self.q.popleft()
+            if visited[i][j]:
+                continue
+            visited[i][j] = True
+            if self.atlantic[i][j] and self.pacific[i][j]:
+                self.ans.append([i, j])
+            directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+            for dx, dy in directions:
+                x, y = i + dx, j + dy
+                if 0 <= x < self.m and 0 <= y < self.n and mat[x][y] >= mat[i][j]:
+                    self.q.append((x, y))
 
 # Example usage:
 # sol = Solution()
