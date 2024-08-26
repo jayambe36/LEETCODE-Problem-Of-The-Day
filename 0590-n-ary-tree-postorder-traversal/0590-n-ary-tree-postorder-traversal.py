@@ -1,3 +1,9 @@
 class Solution:
-    def postorder(self, root: 'Node') -> List[int]:  
-        return sum((self.postorder(chaild) for chaild in root.children), []) + [root.val] if root else []
+    def postorder(self, root: 'Node') -> List[int]:
+        if not root:
+            return []
+        path = []
+        for chaild in root.children:
+            path += self.postorder(chaild)
+        path.append(root.val)
+        return path
