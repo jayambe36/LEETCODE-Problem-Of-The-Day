@@ -31,6 +31,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Search
 |  |
@@ -60,4 +61,12 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
