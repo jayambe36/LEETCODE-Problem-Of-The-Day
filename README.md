@@ -136,4 +136,12 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
+## Math
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1501-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
