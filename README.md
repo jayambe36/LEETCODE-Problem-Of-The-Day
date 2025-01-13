@@ -99,6 +99,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2465-shifting-letters-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
