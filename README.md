@@ -20,6 +20,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -32,6 +33,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
@@ -69,6 +71,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
@@ -176,6 +179,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
