@@ -17,6 +17,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -93,6 +94,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Dynamic Programming
 |  |
@@ -212,6 +214,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
 |  |
 | ------- |
