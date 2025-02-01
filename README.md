@@ -71,6 +71,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
 | ------- |
