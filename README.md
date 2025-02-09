@@ -66,6 +66,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2145-grid-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2685-first-completely-painted-row-or-column) |
@@ -177,6 +178,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -192,12 +194,14 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
+| [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1501-circle-and-rectangle-overlapping) |
+| [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 ## Geometry
 |  |
 | ------- |
