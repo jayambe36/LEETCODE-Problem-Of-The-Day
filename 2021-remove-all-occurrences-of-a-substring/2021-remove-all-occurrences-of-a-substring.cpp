@@ -1,19 +1,16 @@
 class Solution {
 public:
     string removeOccurrences(string s, string part) {
-        string resultStack;
-        int targetLength = part.size();
-        char targetEndChar = part.back();
-
-        for (char currentChar : s) {
-            resultStack.push_back(currentChar);
-
-            if (currentChar == targetEndChar && resultStack.size() >= targetLength) {
-                if (resultStack.substr(resultStack.size() - targetLength) == part) {
-                    resultStack.erase(resultStack.size() - targetLength);
-                }
-            }
+        // Loop until all occurrences of `part` are removed
+        while ((s.find(part)) != string::npos) {  
+            // Find the first occurrence of `part` in `s`
+            unsigned idx = s.find(part);   
+            
+            // Erase `part` from `s` at position `idx` 
+            s.erase(idx, part.size());   
         }
-        return resultStack;
+        
+        // Return the modified string
+        return s;
     }
 };
