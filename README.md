@@ -133,6 +133,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1477-product-of-the-last-k-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
