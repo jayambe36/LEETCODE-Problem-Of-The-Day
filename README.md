@@ -134,6 +134,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
@@ -141,6 +142,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -187,6 +189,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
@@ -204,6 +207,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
