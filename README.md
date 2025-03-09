@@ -97,6 +97,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,4 +341,5 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
