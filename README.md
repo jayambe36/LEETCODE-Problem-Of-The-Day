@@ -99,11 +99,13 @@ Automatically sync your code from LeetCode to GitHub
 | [3429-special-array-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2358-number-of-ways-to-split-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
 | ------- |
