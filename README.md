@@ -88,6 +88,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2564-most-profitable-path-in-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -106,6 +107,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2690-house-robber-iv) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
