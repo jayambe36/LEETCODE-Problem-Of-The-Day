@@ -79,6 +79,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2145-grid-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2145-grid-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2465-shifting-letters-ii) |
@@ -234,6 +235,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -256,6 +258,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -279,6 +282,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
