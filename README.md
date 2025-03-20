@@ -101,6 +101,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -151,6 +152,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Dynamic Programming
 |  |
@@ -291,6 +293,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
@@ -320,6 +323,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
