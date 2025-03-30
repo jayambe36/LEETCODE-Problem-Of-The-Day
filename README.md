@@ -194,6 +194,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
+| [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
@@ -251,6 +252,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
+| [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
@@ -273,6 +275,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2509-minimize-xor) |
@@ -391,6 +394,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2588-maximum-number-of-points-from-grid-queries) |
