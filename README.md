@@ -11,6 +11,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0904-leaf-similar-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -22,6 +23,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -37,6 +39,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1558-course-schedule-iv) |
@@ -54,6 +57,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0904-leaf-similar-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
@@ -262,6 +266,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
