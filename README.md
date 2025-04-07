@@ -64,6 +64,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -183,6 +184,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
