@@ -322,6 +322,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1501-circle-and-rectangle-overlapping](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2649-count-total-number-of-colored-cells) |
@@ -453,4 +454,8 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
