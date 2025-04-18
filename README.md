@@ -218,6 +218,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
