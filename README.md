@@ -74,6 +74,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1524-string-matching-in-an-array) |
@@ -347,6 +348,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1501-circle-and-rectangle-overlapping) |
