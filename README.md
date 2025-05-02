@@ -208,6 +208,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0368-largest-divisible-subset](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
+| [0868-push-dominoes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
@@ -234,6 +235,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
@@ -463,6 +465,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2588-maximum-number-of-points-from-grid-queries) |
