@@ -71,6 +71,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
@@ -331,6 +332,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
