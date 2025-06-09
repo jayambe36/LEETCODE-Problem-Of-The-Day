@@ -294,6 +294,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Trie
 |  |
 | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
