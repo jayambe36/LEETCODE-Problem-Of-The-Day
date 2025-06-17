@@ -392,6 +392,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3227-find-missing-and-repeated-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Geometry
 |  |
 | ------- |
@@ -528,6 +529,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
