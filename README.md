@@ -137,6 +137,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3429-special-array-i) |
@@ -357,6 +358,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting
 |  |
 | ------- |
@@ -463,6 +465,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
