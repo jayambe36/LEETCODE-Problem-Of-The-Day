@@ -270,6 +270,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2691-count-vowel-strings-in-ranges](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -338,6 +339,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
@@ -361,6 +363,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
 | ------- |
@@ -371,6 +374,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
@@ -470,6 +474,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3001-apply-operations-to-maximize-score](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
