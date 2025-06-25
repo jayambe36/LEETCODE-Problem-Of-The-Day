@@ -95,6 +95,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2249-count-the-hidden-sequences) |
@@ -157,6 +158,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2394-count-subarrays-with-score-less-than-k) |
