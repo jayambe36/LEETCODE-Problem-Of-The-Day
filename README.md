@@ -235,6 +235,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -269,6 +270,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -361,6 +363,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -573,4 +576,8 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
