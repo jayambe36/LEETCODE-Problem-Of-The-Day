@@ -422,6 +422,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Geometry
@@ -440,6 +441,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -585,6 +587,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
