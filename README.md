@@ -94,6 +94,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -342,6 +343,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1500-count-largest-group](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
@@ -521,6 +523,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
