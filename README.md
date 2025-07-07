@@ -81,6 +81,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1524-string-matching-in-an-array) |
@@ -196,6 +197,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -373,6 +375,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -495,6 +498,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
