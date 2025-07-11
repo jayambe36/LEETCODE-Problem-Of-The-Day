@@ -118,6 +118,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2465-shifting-letters-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2479-meeting-rooms-iii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -204,6 +205,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2681-put-marbles-in-bags) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -356,6 +358,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -508,6 +511,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -525,6 +529,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2048-build-array-from-permutation](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2479-meeting-rooms-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3447-clear-digits) |
