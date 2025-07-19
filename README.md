@@ -24,6 +24,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0904-leaf-similar-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -78,6 +79,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1477-product-of-the-last-k-numbers) |
@@ -278,6 +280,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1524-string-matching-in-an-array) |
@@ -332,6 +335,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
