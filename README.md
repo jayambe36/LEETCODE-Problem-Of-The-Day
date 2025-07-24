@@ -12,6 +12,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0904-leaf-similar-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -28,6 +29,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -118,6 +120,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -467,6 +470,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2533-bitwise-xor-of-all-pairings) |
