@@ -170,6 +170,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -393,6 +394,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
 | ------- |
@@ -416,6 +418,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
