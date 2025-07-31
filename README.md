@@ -75,6 +75,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -257,6 +258,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
 | [0868-push-dominoes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1170-shortest-common-supersequence) |
@@ -481,6 +483,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2400-minimum-score-after-removals-on-a-tree) |
