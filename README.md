@@ -174,6 +174,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -284,6 +285,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2562-count-ways-to-build-good-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
 | ------- |
@@ -530,6 +532,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
 | ------- |
