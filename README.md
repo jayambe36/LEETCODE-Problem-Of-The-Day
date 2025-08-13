@@ -469,6 +469,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0826-soup-servings) |
@@ -680,6 +681,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
