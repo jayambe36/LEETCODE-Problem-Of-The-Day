@@ -73,6 +73,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0416-partition-equal-subset-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -293,6 +294,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
@@ -471,6 +473,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
