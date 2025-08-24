@@ -93,6 +93,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1524-string-matching-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1656-count-good-triplets) |
@@ -277,6 +278,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1170-shortest-common-supersequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -649,6 +651,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0594-longest-harmonious-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2394-count-subarrays-with-score-less-than-k) |
