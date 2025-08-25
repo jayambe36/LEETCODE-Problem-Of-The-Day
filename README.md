@@ -72,6 +72,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
@@ -536,6 +537,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -600,6 +602,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
