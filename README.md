@@ -168,6 +168,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3429-special-array-i) |
