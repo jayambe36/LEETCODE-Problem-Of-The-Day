@@ -67,6 +67,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
@@ -301,6 +302,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1160-letter-tile-possibilities) |
@@ -395,6 +397,7 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
@@ -542,6 +545,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
