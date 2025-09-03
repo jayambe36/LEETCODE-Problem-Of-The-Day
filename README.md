@@ -172,6 +172,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3227-find-missing-and-repeated-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3429-special-array-i) |
@@ -510,6 +511,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3201-distribute-candies-among-children-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -520,6 +522,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1501-circle-and-rectangle-overlapping) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -610,6 +613,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3001-apply-operations-to-maximize-score](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -703,6 +707,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
