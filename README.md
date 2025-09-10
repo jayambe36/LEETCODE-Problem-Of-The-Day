@@ -103,6 +103,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1813-maximum-erasure-value](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1876-map-of-highest-peak) |
@@ -417,6 +418,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -453,6 +455,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
