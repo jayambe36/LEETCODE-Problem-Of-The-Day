@@ -128,6 +128,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -223,6 +224,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1818-maximum-score-from-removing-substrings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3447-clear-digits) |
@@ -514,6 +516,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2610-closest-prime-numbers-in-range) |
@@ -686,6 +689,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3001-apply-operations-to-maximize-score) |
