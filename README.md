@@ -198,6 +198,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -363,6 +364,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3618-find-the-original-typed-string-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -452,6 +454,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -591,6 +594,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -662,6 +666,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1477-product-of-the-last-k-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
