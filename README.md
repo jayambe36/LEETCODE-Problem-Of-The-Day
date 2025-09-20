@@ -199,6 +199,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -455,6 +457,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -667,12 +670,14 @@ Automatically sync your code from LeetCode to GitHub
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -724,6 +729,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Combinatorics
 |  |
 | ------- |
