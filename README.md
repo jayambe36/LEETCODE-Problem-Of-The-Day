@@ -112,6 +112,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1917-maximum-average-pass-ratio](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -250,6 +251,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -431,6 +433,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1813-maximum-erasure-value](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
@@ -668,12 +671,14 @@ Automatically sync your code from LeetCode to GitHub
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2023-design-movie-rental-system) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3791-fruits-into-baskets-iii) |
