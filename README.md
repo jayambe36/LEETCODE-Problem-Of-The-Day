@@ -88,6 +88,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -299,6 +300,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0934-bitwise-ors-of-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1170-shortest-common-supersequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
