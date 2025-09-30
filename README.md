@@ -136,6 +136,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -539,6 +540,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2610-closest-prime-numbers-in-range) |
@@ -674,6 +676,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2048-build-array-from-permutation](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
@@ -753,6 +756,7 @@ Automatically sync your code from LeetCode to GitHub
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
