@@ -536,6 +536,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1500-count-largest-group](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -672,6 +673,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
