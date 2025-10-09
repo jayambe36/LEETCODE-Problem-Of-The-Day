@@ -208,6 +208,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Binary Search
@@ -404,6 +405,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3618-find-the-original-typed-string-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## String Matching
 |  |
 | ------- |
@@ -692,6 +694,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Design
 |  |
 | ------- |
