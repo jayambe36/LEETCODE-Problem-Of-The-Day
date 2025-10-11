@@ -190,6 +190,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3429-special-array-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -231,6 +232,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2699-count-the-number-of-fair-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
@@ -324,6 +326,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2562-count-ways-to-build-good-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
@@ -470,6 +473,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3242-count-elements-with-maximum-frequency](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -523,6 +527,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -676,6 +681,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
@@ -731,6 +737,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
