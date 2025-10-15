@@ -195,6 +195,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3483-alternating-groups-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
@@ -233,6 +234,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3827-implement-router) |
