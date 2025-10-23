@@ -391,6 +391,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3618-find-the-original-typed-string-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -582,6 +583,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
@@ -710,6 +712,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Design
 |  |
@@ -756,6 +759,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -792,6 +796,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3201-distribute-candies-among-children-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
