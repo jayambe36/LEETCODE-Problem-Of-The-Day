@@ -345,6 +345,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
@@ -462,6 +463,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2434-design-a-number-container-system) |
@@ -531,6 +533,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -560,6 +563,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1642-water-bottles](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -803,6 +807,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1656-count-good-triplets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3201-distribute-candies-among-children-ii) |
