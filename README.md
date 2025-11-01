@@ -199,6 +199,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -495,6 +496,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -861,6 +863,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Probability and Statistics
 |  |
 | ------- |
