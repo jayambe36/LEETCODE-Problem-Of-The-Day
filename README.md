@@ -107,6 +107,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1813-maximum-erasure-value](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -326,6 +327,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -374,6 +376,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -517,6 +520,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1917-maximum-average-pass-ratio) |
