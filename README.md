@@ -201,6 +201,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -285,6 +286,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2681-put-marbles-in-bags) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Stack
 |  |
@@ -502,6 +504,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -806,6 +809,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Queue
