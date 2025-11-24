@@ -88,6 +88,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0934-bitwise-ors-of-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1063-best-sightseeing-pair) |
@@ -623,6 +624,7 @@ Automatically sync your code from LeetCode to GitHub
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2400-minimum-score-after-removals-on-a-tree) |
