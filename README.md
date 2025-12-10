@@ -203,6 +203,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -611,6 +612,7 @@ Automatically sync your code from LeetCode to GitHub
 | [3279-alice-and-bob-playing-flower-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -652,6 +654,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -834,6 +837,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
