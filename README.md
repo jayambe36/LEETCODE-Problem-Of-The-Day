@@ -338,6 +338,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -388,6 +389,7 @@ Automatically sync your code from LeetCode to GitHub
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -592,6 +594,7 @@ Automatically sync your code from LeetCode to GitHub
 | [1817-calculate-money-in-leetcode-bank](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/2244-number-of-laser-beams-in-a-bank) |
