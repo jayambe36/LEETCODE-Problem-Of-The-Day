@@ -83,6 +83,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0611-valid-triangle-number](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -469,6 +470,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0594-longest-harmonious-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0840-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0952-word-subsets) |
@@ -583,6 +585,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0679-24-game](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0840-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -666,6 +669,7 @@ Automatically sync your code from LeetCode to GitHub
 | [0407-trapping-rain-water-ii](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0498-diagonal-traverse) |
+| [0840-magic-squares-in-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jayambe36/LEETCODE-Problem-Of-The-Day/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
